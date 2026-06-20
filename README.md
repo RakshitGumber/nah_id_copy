@@ -1,5 +1,7 @@
 <div align="center">
 
+<!-- https://chat.z.ai/c/db434fcc-5786-4a6f-9b1b-4d2fcc50ca7c -->
+
 # 📚 Template Library
 
 Reusable templates for projects, APIs, tasks, AI systems, and documentation.
@@ -16,13 +18,13 @@ Build once. Reuse forever.
 
 ## 🚀 Projects
 
-| Template | Purpose |
-|------------|---------|
+| Template          | Purpose                       |
+| ----------------- | ----------------------------- |
 | project-github.md | GitHub repository description |
-| project-linear.md | Linear/Postman documentation |
-| project-readme.md | Project README |
-| roadmap.md | Future milestones |
-| changelog.md | Version history |
+| project-linear.md | Linear/Postman documentation  |
+| project-readme.md | Project README                |
+| roadmap.md        | Future milestones             |
+| changelog.md      | Version history               |
 
 ---
 
